@@ -9,7 +9,7 @@
 - 📓 Sou Pós-graduado em Engenharia de Software.
 - 👨🏻‍💻 Atualmente trabalho como Full Stack Developer.
 - ♑ Sou auto-didata. Gosto de aprender novas tecnologias.
-- 🌱 Meu foco atual é em **Desenvilvimento Backend** e praticando **Desenvolvimento FrontEnd** e **DevOps** todos os dias.
+- 🌱 Meu foco atual é em **Desenvolvimento Backend** e praticando **Desenvolvimento FrontEnd** e **DevOps** todos os dias.
 - 💬 Estou buscando contribuir com **Projetos Open Source**.
 
 <h3>Tecnologias</h3>
