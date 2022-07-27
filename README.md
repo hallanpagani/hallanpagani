@@ -18,7 +18,7 @@
 <br>Postgres, MySql, SQLServer, Firebird, Oracle
 <br>
 <b>NoSQL</b>
-<br>MongoDB
+<br>MongoDB, Cassandra, Redis, Neo4J
 <br>
 <h2>Linguagens</h2>
 <br><b>Desktop:</b> Delphi, C#, Java 
